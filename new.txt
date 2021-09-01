@@ -1,0 +1,1 @@
+This is new file added for the demonstration of git commands 
